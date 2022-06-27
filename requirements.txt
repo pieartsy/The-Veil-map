@@ -39,7 +39,7 @@ python-dateutil==2.7.5
 pytz==2018.7
 pywin32==224
 pywin32-ctypes==0.2.0
-reportlab==3.5.12
+reportlab==3.5.55
 rsa==4.0
 sip==4.19.8
 six==1.12.0
